@@ -1,6 +1,6 @@
 # python-challenge
 
-two challenges using pthon– PyBank and PyPoll
+two challenges using python– PyBank and PyPoll
 
 both provide analysis on data from a csv file
 
